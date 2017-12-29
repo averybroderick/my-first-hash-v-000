@@ -17,7 +17,7 @@ the_manifest = {
   "porcelain_vases" => 2,
   "oil_paintings" => 3
 }
-
+return the_manifest
 end
 
 def retrieval
